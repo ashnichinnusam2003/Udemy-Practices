@@ -1,0 +1,29 @@
+h1 {
+    color: #228b22;
+    text-align: center;
+
+}
+
+h2 {
+    color: chartreuse;
+    text-align: center;
+}
+
+p {
+    color: #6b8e23;
+    text-align: center;
+}
+
+ul{
+    margin-left: 50px;
+    list-style: square;
+}
+
+li{
+    margin-left: 50px;
+}
+
+a{
+    margin-left: 50px;
+    color: green;
+}
